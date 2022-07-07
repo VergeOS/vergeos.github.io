@@ -1,0 +1,37 @@
+.deep-llms-course-author{
+    background: #F8F8F8;
+    padding: 36px;
+    border: 1px solid #EEEEEE;
+    border-radius: 10px;
+}
+
+.deep-llms-course-author .deep-llms-author-avatar-wrapper{
+    width: fit-content;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.deep-llms-course-author .deep-llms-author-content-wrapper{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 12px;
+}
+
+.deep-llms-course-author .llms-author .name{
+    font-size: 18px;
+    line-height: 1.5em;
+    font-weight: bold;
+    text-transform: capitalize;
+    margin-left: 0px;
+}
+
+.deep-llms-course-author .llms-author .label{
+    font-size: 12px;
+    margin-left: 0px;
+}
+
+.deep-llms-course-author .llms-author .bio{
+    font-size: 14px;
+    margin-top: 10px;
+    margin-bottom: 0;
+}

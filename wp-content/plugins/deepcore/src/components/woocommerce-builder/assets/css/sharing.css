@@ -1,0 +1,61 @@
+.deep-woo-sharing {
+    position: relative;
+}
+
+.deep-social-share-links {
+    padding: 10px 2px;
+    margin: 0;
+    display: none;
+    position: absolute;
+    background: #fff;
+    overflow: hidden;
+    width: auto;
+    min-width: 130px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.18);
+    border-radius: 0 0 5px 5px;
+    z-index: 9999;
+}
+
+.deep-woo-sharing-box {
+    float: left;
+    clear: both;
+}
+
+.deep-woo-sharing-box a.deep-btn-social-share-links {
+    display: inline-block;
+}
+
+.deep-woo-sharing-box .deep-social-share-links.open,
+.deep-woo-sharing-box:hover .deep-social-share-links {
+    display: block;
+}
+
+.deep-social-share-links ul {
+    margin: 0;
+    padding: 0;
+}
+
+.deep-social-share-links ul li.deep-social-share-link {
+    list-style: none;
+    padding: 5px 10px;
+    margin: 0;
+    color: #919293;
+    font-size: 13px
+}
+
+.deep-social-share-links ul li.deep-social-share-link:hover {
+    color: #000;
+}
+
+.deep-social-share-links ul li.deep-social-share-link a {
+    color: inherit;
+    display: block;
+    min-height: 24px;
+    transition: all 0.3s ease;
+}
+
+.deep-social-share-links ul li.deep-social-share-link i {
+    font-size: 15px;
+    margin-right: 5px;
+    vertical-align: middle
+}

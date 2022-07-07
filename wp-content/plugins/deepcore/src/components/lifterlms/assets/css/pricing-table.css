@@ -1,0 +1,27 @@
+.llms-access-plan .llms-access-plan-footer,
+.llms-access-plan .llms-access-plan-content {
+    background: transparent;
+    text-align: left;
+    padding: 0;
+}
+
+.llms-access-plan-description {
+    padding: 0;
+}
+
+.llms-access-plan-content h4 {
+    font-size: 18px;
+}
+
+.lifterlms-price {
+    font-size: 20px;
+    color: #33BA76;
+}
+
+.llms-access-plan-description p {
+    font-size: 18px;
+}
+
+.llms-access-plan-footer {
+    border: none;
+}

@@ -1,0 +1,107 @@
+.lifterlms input[type="text"],
+.lifterlms input[type="tel"],
+.lifterlms input[type="password"],
+.lifterlms input[type="email"],
+.lifterlms textarea,
+.lifterlms select,
+.lifterlms .select2-selection.select2-selection--single {
+    border: 1px solid #E3E4E6;
+    border-radius: 7px;
+    padding: 17px 27px;
+    color: #616263;
+    font-size: 16px;
+    font-family: inherit;
+}
+
+span.select2-selection.select2-selection--single {
+    padding: 13px 18px !important;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: #616263 !important;
+}
+
+.lifterlms label {
+    color: #B7B7B7;
+    font-size: 14px;
+    margin-bottom: 10px;
+    font-weight: 300;
+}
+
+a.llms-toggle-fields {
+    color: #616263;
+}
+
+a.llms-toggle-fields:hover {
+    text-decoration: underline;
+}
+
+.lifterlms input[type="text"]:focus,
+.lifterlms input[type="tel"]:focus,
+.lifterlms input[type="password"]:focus,
+.lifterlms input[type="email"]:focus,
+.lifterlms textarea:focus {
+    border-color: #33BA76;
+    box-shadow: unset;
+}
+
+.llms-field-button {
+    border: none;
+    background: #33BA76;
+    color: #fff;
+    padding: 20px 43px;
+    font-family: inherit;
+    border-radius: 100px;
+    font-size: 15px;
+    font-weight: 600;
+    transition: all 0.2s;
+    cursor: pointer;
+}
+
+.llms-field-button:hover {
+    background: #444;
+}
+
+.llms_review {
+    border-bottom: 1px solid #EEEEEE;
+    padding: 35px 35px 10px;
+    position: relative;
+}
+
+.llms-checkout-section.billing-information,
+.llms-checkout-section.payment-details,
+form.llms-login {
+    border: none !important;
+}
+
+button#llms_create_pending_order {
+    max-width: 20%;
+}
+
+.llms-checkout-wrapper h4.llms-form-heading {
+    background: #33BA76;
+    border-radius: 5px;
+    font-size: 17px;
+    margin: 20px 0;
+}
+
+.llms-notice {
+    border: none;
+    background: #33BA76;
+    border-radius: 5px;
+    padding: 12px;
+    color: #fff;
+}
+
+.llms-notice a {
+    color: #fff;
+    text-decoration: underline;
+}
+
+button#llms_create_pending_order {
+    max-width: 30%;
+}
+
+.llms-checkout-section {
+    border-color: transparent;
+}

@@ -1,0 +1,123 @@
+.deep-woo-add-to-cart {
+	margin: 5px 0;
+}
+
+.deep-woo-add-to-cart input {
+	margin: 5px 0;
+}
+
+.deep-woo-add-to-cart .button i{
+	margin-right: 5px;
+	margin-left: 5px;
+}
+
+.quantity i {
+	cursor: pointer;
+}
+
+.quantity input::-webkit-outer-spin-button,
+.quantity input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+.quantity input[type=number] {
+  -moz-appearance: textfield;
+}
+
+span.deep-woo-add-to-cart {
+  border: 1px solid #e2e3e4;
+  display: inline-block;
+  padding: 12px;
+  color: inherit;
+}
+
+span.deep-woo-add-to-cart input[type="number"] {
+  border: none !important;
+  padding: 0 !important;
+}
+.woocommerce span.deep-woo-add-to-cart .qty {
+  width: 1.2em;
+}
+
+.woocommerce span.deep-woo-add-to-cart i {
+  background: #f0f1f2;
+  font-size: 11px;
+  display: inline-block;
+  text-align: center;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  line-height: 1.9;
+  color: #000;
+}
+
+.woocommerce span.deep-woo-add-to-cart .quantity {
+  padding-left: 7px;
+}
+
+.reset_variations {
+  display: inline-block;
+  visibility: hidden;
+}
+
+/* Variations */
+
+.deep-woo-add-to-cart.product-variable .variations tr {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.deep-woo-add-to-cart.product-variable .variations td label,
+.deep-woo-add-to-cart.product-variable .variations th label {
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: capitalize;
+  color: #000000;
+}
+
+.deep-woo-add-to-cart.product-variable .variations td,
+.deep-woo-add-to-cart.product-variable .variations th {
+  width: 100%;
+  margin: 10px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.deep-woo-add-to-cart.product-variable .variations td li {
+  border: 1px solid #E2E3E4;
+  border-radius: 0px;
+  max-width: 40px;
+  max-height: 40px;
+}
+
+.deep-woo-add-to-cart.product-variable .variations .thwvsf-color-li {
+  border-radius: 50%;
+  max-width: 35px;
+  max-height: 35px;
+  padding: 2px;
+}
+
+.deep-woo-add-to-cart.product-variable .variations td li span {
+  font-size: 12px;
+}
+
+.deep-woo-add-to-cart.product-variable .reset_variations {
+  margin: 10px 0;
+}
+
+.deep-woo-add-to-cart.product-variable select {
+    font-size: 13px;
+    color: #808182;
+    border-radius: 0;
+    height: 34px;
+    line-height: 34px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background: #ffffff;
+    border: 2px solid;
+    border-color: #E2E3E4;
+}

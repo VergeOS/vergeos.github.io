@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_25" data-name="Rectangle 25" width="44" height="44" transform="translate(-1 -1)" fill="#c6ced2"/>
+    </clipPath>
+  </defs>
+  <g id="recent-productas-icon" transform="translate(1 1)" clip-path="url(#clip-path)">
+    <g id="Group_118" data-name="Group 118" transform="translate(0.294 0.294)">
+      <path id="Path_135" data-name="Path 135" d="M1.3,0A1.3,1.3,0,0,0,0,1.3V16.815a1.3,1.3,0,0,0,1.3,1.3H16.815a1.3,1.3,0,0,0,1.3-1.3V1.3a1.3,1.3,0,0,0-1.3-1.3ZM24.6,0a1.3,1.3,0,0,0-1.3,1.3V16.815a1.3,1.3,0,0,0,1.3,1.3H40.109a1.3,1.3,0,0,0,1.3-1.3V1.3a1.3,1.3,0,0,0-1.3-1.3ZM1.3,23.294A1.3,1.3,0,0,0,0,24.6V40.109a1.3,1.3,0,0,0,1.3,1.3H16.815a1.3,1.3,0,0,0,1.3-1.3V24.6a1.3,1.3,0,0,0-1.3-1.3Zm23.294,0a1.3,1.3,0,0,0-1.3,1.3V40.109a1.3,1.3,0,0,0,1.3,1.3H40.109a1.3,1.3,0,0,0,1.3-1.3V24.6a1.3,1.3,0,0,0-1.3-1.3ZM2.588,2.588V15.529H15.529V2.588Zm23.294,0V15.529H38.824V2.588ZM2.588,25.882V38.824H15.529V25.882Zm23.294,0V38.824H38.824V25.882Zm0,0" fill="#c6ced2" stroke="#fff" stroke-width="0.5" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

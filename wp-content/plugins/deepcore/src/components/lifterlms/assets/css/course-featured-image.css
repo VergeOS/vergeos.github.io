@@ -1,0 +1,25 @@
+.deep-llms-course-featured-image {
+    position: relative;
+}
+
+.llms-video-link {
+    position: absolute;
+    top: calc(50% - 41px);
+    left: 0;
+    right: 0;
+    text-align: center;
+    background: #33BA76;
+    width: 82px;
+    height: 82px;
+    margin: 0 auto;
+    border-radius: 100px;
+    transition: all 0.2s;
+}
+
+.llms-video-link:hover {
+    background: #000;
+}
+
+.llms-video {
+    line-height: 6;
+}

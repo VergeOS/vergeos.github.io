@@ -1,0 +1,1 @@
+window.fwSettings={widget_id:47000002173},function(){var e;"function"!=typeof window.FreshworksWidget&&((e=function(){e.q.push(arguments)}).q=[],window.FreshworksWidget=e)}();const x=document.getElementById("open-ticket");x.addEventListener("click",function(e){e.preventDefault(),FreshworksWidget("open","ticketForm")});

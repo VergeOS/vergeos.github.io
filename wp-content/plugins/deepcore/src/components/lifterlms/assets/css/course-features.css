@@ -1,0 +1,42 @@
+.deep-llms-course-features {
+    background: #F8F8F8;
+    border-radius: 10px;
+    border: 1px solid #eeeeee;
+    padding: 45px 45px 15px;
+}
+
+.deep-llms-course-features h3 {
+    font-size: 20px;
+    color: #000000;
+    margin-bottom: 36px;
+}
+
+.llms-features {
+    margin-bottom: 30px;
+}
+
+.course-feature-icon,
+.course-feature-title {
+    font-size: 14px;
+    color: #646464;
+    vertical-align: middle;
+}
+
+.course-feature-icon {
+    width: 7%;
+    display: inline-block;
+    text-align: center;
+}
+
+.course-feature-value {
+    vertical-align: middle;
+}
+
+.course-feature-value {
+    color: #000000;
+    font-weight: 500;
+}
+
+.course-feature-value a {
+    color: #437DF9;
+}

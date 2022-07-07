@@ -1,0 +1,150 @@
+.deep-llms-courses{
+    display: inline-block;
+}
+
+.deep-llms-course {
+    padding: 0 15px;
+    margin-bottom: 15px;
+    display: inline-block;
+}
+
+@media (min-width: 768px) {
+    .deep-llms-course {
+        max-width: 33%;
+    }
+}
+
+.deep-llms-course-inner {
+    border: 1px solid #EEEEEE;
+    border-radius: 10px;
+    padding: 22px 30px 5px;
+}
+
+.deep-llms-course .llms-image img {
+    border-radius: 10px;
+}
+
+.deep-llms-course .llms-image {
+    position: relative;
+}
+
+.deep-llms-course .llms-video {
+    position: absolute;
+    top: 16px;
+    right: 22px;
+    background: #fff;
+    border-radius: 100px;
+    width: 45px;
+    height: 45px;
+    text-align: center;
+    line-height: 3.5;
+    transition: all 0.2s;
+}
+
+.llms-video-link:hover .llms-video {
+    background: #33BA76;
+}
+
+.llms-video-link:hover .llms-video path {
+    fill: #fff;
+}
+
+.deep-llms-course .llms-price {
+    float: right;
+    font-size: 17px;
+    line-height: 29px;
+    color: #33BA76;
+    font-weight: 500;
+}
+
+.deep-llms-course .llms-cat a {
+    position: relative;
+    background: #E2FFEE;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0.3px;;
+    color: #33BA76;
+    padding: 7px 16px 7px 29px;
+    border-radius: 4px;
+    transition: all 0.2s;
+    display: inline-block;
+}
+
+.deep-llms-course .llms-cat a:before {
+    position: absolute;
+    content: '';
+    background: #33BA76;
+    width: 8px;
+    height: 8px;
+    left: 13px;
+    top: 12px;
+    border-radius: 50px;
+}
+
+.deep-llms-course .llms-cat a:hover {
+    background: #33BA76;
+    color: #fff;
+}
+
+.deep-llms-course .llms-cat a:hover:before {
+    background: #fff;
+}
+
+.deep-llms-course .llms-meta {
+    margin: 32px 0 16px;
+}
+
+.llms-course-title {
+    color: #000000;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.llms-course-title a {
+    color: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    font-weight: inherit;
+    text-transform: inherit;
+    font-style: inherit;
+    text-decoration: inherit;
+    letter-spacing: inherit;
+}
+
+.llms-learners-wrap {
+    border-top: 1px solid #EBEBEB;
+    margin-top: 22px;
+    padding: 14px 0;
+}
+
+span.llms-instructor-name {
+    color: #646464;
+    font-size: 14px;
+}
+
+span.llms-instructor-image img {
+    border-radius: 50px;
+}
+
+.llms-instructor {
+    width: 60%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.llms-learners {
+    width: 38%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.llms-learners {
+    text-align: right;
+}
+
+span.llms-learners-count {
+    color: #646464;
+    font-size: 14px;
+    margin: 0 0 0 5px;
+    float: right;
+}

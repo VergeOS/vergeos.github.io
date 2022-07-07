@@ -1,0 +1,18 @@
+.deep-llms-tags a {
+    display: inline-block;
+    font-size: 15px;
+    line-height: 1.26em;
+    color: #33BA76;
+    padding: 6px 15px;
+    background: #F8F8F8;
+    border: 1px solid #eeeeee;
+    border-radius: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    transition: all 0.2s;
+}
+
+.deep-llms-tags a:hover {
+    background: #000;
+    color: #fff;
+}

@@ -1,0 +1,253 @@
+.deep-woo-tabs ul.tabs li {
+    border: 1px solid #d3ced2;
+    background-color: #ebe9eb;
+    display: inline-block;
+    position: relative;
+    z-index: 0;
+    border-radius: 4px 4px 0 0;
+    margin: 0 -5px;
+    padding: 0 16px;
+}
+
+.deep-woo-tabs ul.tabs li.active {
+    background: #fff;
+    z-index: 2;
+    border-bottom-color: #fff;
+}
+
+.deep-woo-tabs ul.tabs li a {
+    display: inline-block;
+    padding: 8px 0;
+    font-weight: 700;
+    color: #515151;
+    text-decoration: none;
+}
+
+/* Review Form */
+.deep-woo-tabs #reviews {
+    margin-top: 50px;
+}
+
+.deep-woo-tabs #reviews #comments .woocommerce-Reviews-title {
+    color: #313233;
+    Font-size: 17px;
+    font-weight: 500;
+    line-height: 1.18;
+    margin: 0 0 20px 0;
+}
+
+.woocommerce #reviews #comments ol.commentlist {
+    margin: 0 0 10px 0;
+}
+
+.deep-woo-tabs #reviews #comments ol.commentlist li img.avatar {
+    width: 65px;
+    height: 65px;
+    padding: 0;
+    background: none;
+    border: none;
+    border-radius: 50%;
+}
+
+.deep-woo-tabs #reviews #comments ol.commentlist li .comment-text {
+    margin: 0 0 0 77px;
+    border: none;
+    border-radius: 0;
+    padding: 4px 0 0 0;
+}
+
+.deep-woo-tabs #reviews #comments ol.commentlist li .comment-text p.meta {
+    margin: 0 0 15px 0;
+}
+
+.deep-woo-tabs #reviews #comments ol.commentlist li .comment-text p.meta .woocommerce-review__author {
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 1.18;
+    color: #313233;
+    text-transform: capitalize;
+    display: block;
+    margin: 0 0 22px 0;
+}
+
+.deep-woo-tabs #reviews #comments ol.commentlist li .comment-text p.meta .woocommerce-review__dash {
+    display: none;
+}
+
+.deep-woo-tabs #reviews #comments ol.commentlist li .comment-text p.meta .woocommerce-review__published-date {
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 1.23;
+    color: #808182;
+    display: block;
+}
+
+.deep-woo-tabs #reviews #comments ol.commentlist li .comment-text .star-rating {
+    float: none;
+    position: absolute;
+    top: 26px;
+}
+
+.deep-woo-tabs #reviews #comments ol.commentlist li .comment-text .star-rating:before {
+    color: #E2E3E4;
+}
+
+.deep-woo-tabs #reviews #comments ol.commentlist li .comment-text .star-rating span:before {
+    color: #EBAD31;
+}
+
+.deep-woo-tabs #reviews #comments ol.commentlist li .comment-text .description p {
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 1.18;
+    color: #808182;
+}
+
+.deep-woo-tabs #review_form #respond #reply-title {
+    font-size: 23px;
+    font-weight: 600;
+    line-height: 1.21;
+    color: #404142;
+    display: block;
+    padding: 0 0 5px 0;
+    margin: 0 0 20px 0;
+    border-style: solid;
+    border-width: 0 0 1px 0;
+    border-color: #E2E3E4;
+}
+
+.deep-woo-tabs #review_form #respond p.comment-notes {
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 1.18;
+    color: #808182;
+    text-align: left;
+    margin: 0 0 56px 0;
+}
+
+.deep-woo-tabs #review_form #respond #commentform label {
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 1.23;
+    color: #808182;
+    text-transform: inherit;
+}
+
+.deep-woo-tabs #review_form #respond #commentform .comment-form-rating label,
+.deep-woo-tabs #review_form #respond #commentform .comment-form-cookies-consent label {
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 1.75;
+    color: #313233;
+}
+
+.deep-woo-tabs #review_form #respond #commentform .comment-form-rating p.stars {
+    margin: 15px 0 65px 0;
+    line-height: 1em
+}
+
+.deep-woo-tabs #review_form #respond #commentform .comment-form-rating p.stars a {
+    color: #E2E3E4;
+    margin: 0 -4px 0 0;
+}
+
+.deep-woo-tabs #review_form #respond #commentform .comment-form-rating p.stars a:hover~a::before,
+.woocommerce p.stars.selected a.active~a::before {
+    color: #E2E3E4;
+}
+
+.deep-woo-tabs #review_form #respond #commentform .comment-form-rating p.stars:hover a::before,
+.woocommerce p.stars.selected a.active::before,
+.woocommerce p.stars.selected a:not(.active)::before {
+    color: #EBAD31;
+}
+
+.deep-woo-tabs #review_form #respond #commentform #comment,
+.deep-woo-tabs #review_form #respond #commentform #author,
+.deep-woo-tabs #review_form #respond #commentform #email {
+    height: 36px;
+    min-height: 36px;
+    padding: 0;
+    margin: 0 0 35px 0;
+}
+
+.deep-woo-tabs #review_form #respond #commentform p {
+    position: relative;
+}
+
+.deep-woo-tabs #review_form #respond #commentform p textarea,
+.deep-woo-tabs #review_form #respond #commentform p input[type="text"],
+.deep-woo-tabs #review_form #respond #commentform p input[type="email"] {
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 1.75;
+    color: #313233;
+}
+
+.deep-woo-tabs #review_form #respond #commentform p:after {
+    height: 2px;
+}
+
+.deep-woo-tabs #review_form #respond #commentform p.comment-form-author:after,
+.deep-woo-tabs #review_form #respond #commentform p.comment-form-email:after {
+    bottom: 35px;
+}
+
+.deep-woo-tabs #review_form #respond #commentform p.comment-form-author,
+.deep-woo-tabs #review_form #respond #commentform p.comment-form-email {
+    width: calc(50% - 20px);
+}
+
+.deep-woo-tabs #review_form #respond #commentform p.comment-form-author {
+    margin: 0 20px 0 0;
+}
+
+.deep-woo-tabs #review_form #respond #commentform p.comment-form-email {
+    margin: 0 0 0 20px
+}
+
+.deep-woo-tabs #review_form #respond #commentform .comment-form-cookies-consent {
+
+    clear: both;
+}
+
+.deep-woo-tabs #review_form #respond #commentform .comment-form-cookies-consent:after {
+    display: none;
+}
+
+.deep-woo-tabs #review_form #respond .form-submit input {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.2;
+    text-transform: capitalize;
+    color: #ffffff;
+    background-color: #313233;
+    padding: 15px 39px 15px 39px;
+    border-radius: 0;
+    border: none;
+    box-shadow: none;
+}
+
+.deep-woo-tabs #review_form #respond .form-submit input:hover {
+    background-color: #000000;
+}
+
+
+
+@media only screen and (max-width: 767px) {
+    .commentlist li .comment-text p {
+        padding: 0;
+    }
+
+    .deep-woo-tabs #review_form #respond #commentform p.comment-form-author,
+    .deep-woo-tabs #review_form #respond #commentform p.comment-form-email {
+        width: 100%;
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+    .deep-woo-tabs #review_form #respond #commentform p.comment-form-author:after,
+    .deep-woo-tabs #review_form #respond #commentform p.comment-form-email:after {
+        bottom: 0;
+    }
+}

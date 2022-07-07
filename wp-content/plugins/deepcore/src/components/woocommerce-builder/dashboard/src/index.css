@@ -1,0 +1,570 @@
+.react-tabs {
+    -webkit-tap-highlight-color: transparent
+}
+
+.react-tabs__tab-list {
+    border-bottom: 1px solid #aaabac;
+    margin: 0 0 10px;
+    padding: 0
+}
+
+.react-tabs__tab {
+    border: 1px solid transparent;
+    border-bottom: none;
+    bottom: -1px;
+    cursor: pointer;
+    display: inline-block;
+    list-style: none;
+    padding: 6px 12px;
+    position: relative
+}
+
+.react-tabs__tab--selected {
+    background: #fff;
+    border-color: #aaa;
+    border-radius: 5px 5px 0 0;
+    color: #000
+}
+
+.react-tabs__tab--disabled {
+    color: GrayText;
+    cursor: default
+}
+
+.react-tabs__tab:focus {
+    border-color: #0188fe;
+    box-shadow: 0 0 5px #0188fe;
+    outline: none
+}
+
+.react-tabs__tab-panel {
+    display: none
+}
+
+.react-tabs__tab-panel--selected {
+    display: block;
+    position: relative;
+}
+
+#deep-woo-dashboard {
+    margin: 20px auto;
+    max-width: 1080px;
+}
+
+.deep-woo-dashboard-tabs-items {
+    background: #f5f6f7;
+    border: 1px solid #e4e5e6;
+    border-bottom-left-radius: 7px;
+    flex-basis: 19%;
+    margin: 0
+}
+
+.deep-woo-dashboard-tabs {
+    background: #fff;
+    border: 1px solid #e4e5e6;
+    border-bottom-right-radius: 7px;
+    border-left: unset;
+    flex-basis: 81%;
+    padding: 10px
+}
+
+.deep-woo-page-item {
+    display: inline-block;
+    margin: 10px 0;
+    text-align: center;
+    width: 33%;
+    vertical-align: top;
+}
+
+@media only screen and (max-width: 1024px) {
+    .deep-woo-page-item {
+        width: 50%
+    }
+}
+
+
+@media only screen and (max-width: 768px) {
+    .deep-woo-page-item {
+        width: 100%
+    }
+}
+
+.about-wrap h3.deep-woo-page-name {
+    color: #414243;
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 12px;
+}
+
+.deep-woo-delete-page,
+.deep-woo-edit-page,
+h3.deep-woo-page-name button {
+    border: 1px solid #e4e5e6;
+    border-radius: 30px;
+    background: transparent;
+    font-size: 13px;
+    cursor: pointer;
+    display: inline-block;
+    margin: 0 auto 25px;
+    padding: 5px 18px 5px 14px;
+    transition: all .2s;
+}
+
+.deep-woo-edit-page:hover,
+.deep-woo-delete-page:hover,
+h3.deep-woo-page-name button:hover {
+    border-color: #c3d7e2;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+.deep-woo-delete-page {
+    background: #fff;
+    color: #0ec3f3;
+    margin-left: 5px
+}
+
+.deep-woo-page-item-inner a {
+    color: #9fa3a7;
+    text-decoration: none
+}
+
+.deep-woo-page-item-inner a:hover {
+    color: #8c9196;
+}
+
+.deep-woo-page-item-inner {
+    position: relative;
+    border: 1px solid #e4e5e6;
+    border-radius: 7px;
+    margin: 5px 15px;
+    min-height: 182px;
+}
+
+.deep-woo-edit-page img {
+    margin-right: 5px;
+    vertical-align: baseline;
+    width: 11px;
+}
+
+.deep-woo-checkbox {
+    border-top: 1px solid #e4e5e6;
+    color: #9fa3a7;
+    padding: 20px;
+    text-align: left;
+    font-size: 13px;
+}
+
+.deep-woo-settings input[type=submit] {
+    background: #64e385;
+    border: none;
+    border-radius: 30px;
+    color: #fff;
+    cursor: pointer;
+    margin: 15px 0 3px;
+    padding: 10px 20px;
+    transition: all .2s
+}
+
+.deep-woo-settings input[type=submit]:hover {
+    background: #17b951
+}
+
+.deep-woo-header {
+    background: #fff;
+    border: 1px solid #e4e5e6;
+    border-bottom: none;
+    border-radius: 7px 7px 0 0;
+    display: flex;
+    padding: 17px 15px;
+    height: 36px;
+}
+
+.deep-woo-header img {
+    width: 44%
+}
+
+.woo-pages-menu-title {
+    background: #e6f8ff;
+    color: #07bbe9;
+    font-size: 14px;
+    font-weight: 600;
+    padding: 16px 38px;
+    position: relative;
+}
+
+.deep-woo-page-item-inner .deep-woo-page-icon {
+    margin-top: 30px;
+    height: 48px;
+    width: auto;
+}
+
+.dwh-actions {
+    margin-left: auto
+}
+
+@media only screen and (max-width: 768px) {
+    .deep-woo-header .dwh-actions {
+        width: 600px;
+        text-align: right;
+    }
+}
+
+.dwh-actions button {
+    cursor: pointer;
+    letter-spacing: .2px;
+    line-height: 34px;
+    padding: 0 18px;
+    transition: all .2s ease
+}
+
+@media only screen and (max-width: 768px) {
+    .deep-woo-header .dwh-actions button {
+        font-size: 12px;
+        padding: 0 14px
+    }
+}
+
+.dwh-actions .dwh-btn-type1 {
+    background: #64e385;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0 0 0 4px #64e38521;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 36px;
+    letter-spacing: .2px;
+    padding: 0 22px;
+    margin-right: 10px;
+    transition: .24s;
+    vertical-align: top;
+}
+
+.dwh-actions .dwh-btn-type1:hover {
+    background: #17b951
+}
+
+.dwh-actions .dwh-btn-type2 {
+    background: #ecf9fd;
+    border: 1px solid #ccecf4;
+    border-radius: 25px;
+    box-shadow: none;
+    color: #0ec3f3;
+    height: 36px;
+    margin-right: 5px;
+    font-size: 13px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.dwh-actions .dwh-btn-type2:hover {
+    background: #fff;
+    box-shadow: 0 2px 7px rgba(236, 249, 253, 0.7);
+}
+
+.dwh-actions input[type=file] {
+    float: left;
+    margin: 5px 0 10px 0;
+    opacity: 0.4;
+    transition: all 0.2s ease;
+    font-size: 12px;
+}
+
+.dwh-actions:hover input[type=file] {
+    opacity: 1;
+}
+
+.dwh-actions-row {
+    border-bottom: 1px solid #e5e5e5e5;
+    margin-bottom: 25px;
+    padding-bottom: 25px;
+}
+
+.dwh-actions-row:last-child {
+    border-color: transparent
+}
+
+a:focus {
+    box-shadow: none
+}
+
+input.pr-checkbox:checked:before {
+    content: "";
+    display: none;
+}
+
+input.pr-checkbox:active,
+input.pr-checkbox:focus {
+    box-shadow: none;
+    outline: none;
+    border-color: #e4e5e6;
+}
+
+input.pr-checkbox {
+    -webkit-appearance: none;
+    position: relative;
+    width: 60px;
+    height: 34px;
+    background-color: #f9fafb;
+    border: 1px solid #e4e5e6;
+    border-radius: 50px;
+    box-shadow: none;
+    float: right;
+    outline: none;
+    margin-top: -8px;
+    margin-right: 0;
+}
+
+input.pr-checkbox:after {
+    background: #fff;
+    border: 1px solid #e4e5e6;
+    border-radius: 50%;
+    content: "";
+    width: 26px;
+    height: 26px;
+    left: 2px;
+    position: absolute;
+    top: 2px;
+    box-shadow: -1px 1px 7px -2px rgba(0, 0, 0, 0.06);
+}
+
+input.pr-checkbox:checked {
+    border-color: #64e385;
+    background-color: #64e385;
+}
+
+input.pr-checkbox:checked:after {
+    left: 27px;
+    border-color: #ffffff;
+}
+
+.react-tabs__tab {
+    border: unset;
+    color: #6e7882;
+    display: block;
+    font-size: 13px;
+    line-height: 2.3;
+    padding: 0;
+    position: relative;
+}
+
+.react-tabs__tab--selected:after,
+.react-tabs__tab--selected:before {
+    border: 7px solid transparent;
+    border-right-color: #fff;
+    content: " ";
+    height: 0;
+    position: absolute;
+    right: -16px;
+    top: 10px;
+    width: 0;
+    z-index: 999
+}
+
+.react-tabs__tab--selected:before {
+    border-right-color: #d2d3d4;
+    right: -15px;
+    z-index: 977
+}
+
+.react-tabs__tab--selected {
+    color: #07bbe9;
+    font-weight: 600;
+}
+
+.react-tabs__tab-panel {
+    padding: 20px 25px;
+}
+
+@media only screen and (max-width: 480px) {
+    .react-tabs__tab-panel {
+        padding: 5px
+    }
+}
+
+.react-tabs {
+    display: flex
+}
+
+.react-tabs__tab-list {
+    background: #fff;
+    border-bottom: 1px solid #e4e5e6;
+    padding: 15px 15px 14px 38px
+}
+
+.ReactModal__Content {
+    border-radius: 7px !important;
+    bottom: auto !important;
+    left: 50% !important;
+    min-height: 254px !important;
+    overflow: visible !important;
+    padding: 10px 20px !important;
+    right: auto !important;
+    top: 50% !important;
+    transform: translate(-50%, -50%);
+    width: 280px;
+}
+
+.ReactModal__Overlay {
+    background-color: rgb(0 0 0/35%) !important;
+    z-index: 999
+}
+
+.deep-woo-form {
+    padding: 40px 10px 15px;
+}
+
+.deep-woo-form input[type=text] {
+    border-color: #e4e5e6;
+    color: #414243;
+    margin-bottom: 20px;
+    padding: 10px;
+    width: 100%;
+    height: 44px;
+}
+
+.deep-woo-form input[type=text]::-moz-placeholder {
+    color: grey
+}
+
+.deep-woo-form input[type=text]:-ms-input-placeholder {
+    color: grey
+}
+
+.deep-woo-form input[type=text]::placeholder {
+    color: grey
+}
+
+.css-yk16xz-control,
+.css-1pahdxg-control {
+    border-color: #e4e5e6 !important;
+    min-height: 44px !important;
+    box-shadow: none !important;
+}
+
+.deep-woo-form input[type=submit] {
+    background: #64e385;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 20px;
+    padding: 15px;
+    transition: all .2s;
+    width: 100%;
+}
+
+.deep-woo-form input[type=submit]:hover {
+    background: #17b951
+}
+
+.deep-woo-edit-link {
+    margin-top: 20px;
+    text-align: center
+}
+
+.deep-woo-pages-title {
+    margin: 0 15px
+}
+
+.react-tabs__tab:focus {
+    border: none !important;
+    box-shadow: unset !important;
+}
+
+.deep-woo-modal-close {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    float: right;
+    color: #000;
+    transition: all 0.2s ease;
+}
+
+.deep-woo-modal-close:hover {
+    color: #e24242
+}
+
+.deep-woo-edit-link a {
+    color: #a0a0a0;
+    display: block;
+    text-decoration: none;
+    transition: all .2s
+}
+
+.deep-woo-edit-link a:hover {
+    color: #4a4a4a
+}
+
+.deep-woo-page-item .css-2b097c-container {
+    margin: 20px;
+}
+
+.deep-woo-page-item .css-yk16xz-control {
+    border-color: #e4e5e6
+}
+
+.deep-woo-page-item .css-1okebmr-indicatorSeparator {
+    background: #e4e5e6
+}
+
+.deep-woo-page-item .css-1uccc91-singleValue {
+    color: #9fa3a7
+}
+
+.css-1okebmr-indicatorSeparator {
+    background-color: #e4e5e6 !important
+}
+
+.dwh-actions form div button.dwh-btn-type2 {
+    border-color: #a4e2a9;
+    color: #1abd27;
+    margin-bottom: 5px;
+    background: #eaffec;
+}
+
+.dwh-actions input[type=email],
+.dwh-actions input[type=password],
+.dwh-actions input[type=search],
+.dwh-actions input[type=text] {
+    border-radius: 5px;
+    font-size: 12px;
+    min-height: 36px;
+    min-width: 220px;
+    border: none;
+    background: #f6f7f8;
+    box-shadow: inset 0 1px 2px rgb(0 0 0 / 7%);
+}
+
+.dwh-actions-row>input {
+    margin-left: 30px;
+}
+
+.deep-woo-remove-page:before {
+    content: "\e605";
+    font-size: 20px;
+}
+
+.deep-woo-remove-page:hover:before {
+    color: #ff6197;
+}
+
+.deep-woo-remove-page {
+    font-family: "themify";
+    display: inline-block;
+    color: #c7cbd2;
+    vertical-align: middle;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    position: absolute;
+    right: 6px;
+    top: 8px;
+    visibility: hidden;
+}
+
+.deep-woo-page-item-inner:hover .deep-woo-remove-page {
+    visibility: visible;
+}

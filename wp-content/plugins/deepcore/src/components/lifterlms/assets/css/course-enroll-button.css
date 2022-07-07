@@ -1,0 +1,30 @@
+.llms-button-primary,
+.deep-llms-course-enroll-button,
+.llms-access-plan .button,
+.llms-access-plan a
+ {
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 600;
+    display: inline-block;
+    padding: 17px 37px;
+    margin-bottom: 15px;
+    margin-right: 10px;
+    background: #33BA76;
+    border-radius: 25px;
+    transition-duration: 200ms;
+    cursor: pointer;
+    border: none;
+}
+
+.llms-button-primary:hover,
+.deep-llms-course-enroll-button:hover,
+.llms-access-plan .button:hover,
+.llms-access-plan a:hover {
+    color: #ffffff;
+    background: #000000;
+}
+
+.deep-llms-lesson-mark-complete {
+    margin-top: 25px;
+}

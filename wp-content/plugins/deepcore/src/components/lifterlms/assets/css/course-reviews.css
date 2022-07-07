@@ -1,0 +1,80 @@
+input#review_title,
+textarea#review_text {
+    border: 1px solid #E3E4E6;
+    border-radius: 7px;
+    padding: 17px 27px;
+    color: #616263;
+    font-size: 16px;
+    font-family: inherit;
+}
+
+input#review_title:focus,
+textarea#review_text:focus {
+    border-color: #33BA76;
+    box-shadow: unset;
+}
+
+input#llms_review_submit_button {
+    border: none;
+    background: #33BA76;
+    color: #fff;
+    padding: 20px 43px;
+    font-family: inherit;
+    border-radius: 100px;
+    font-size: 15px;
+    font-weight: 600;
+    transition: all 0.2s;
+    cursor: pointer;
+}
+
+input#llms_review_submit_button:hover {
+    background: #444;
+}
+
+.llms_review {
+    border-bottom: 1px solid #EEEEEE;
+    padding: 35px 35px 10px;
+    position: relative;
+}
+
+.llms-all-reviews {
+    border: 1px solid #EEEEEE;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.user-avatar img {
+    border-radius: 50% !important;
+}
+
+.user-avatar {
+    position: absolute;
+}
+
+.review-content {
+    padding-left: 70px;
+    margin-top: 10px;
+}
+
+.deep-llms-reviews h3 {
+    font-size: 20px;
+    color: #000;
+    margin-bottom: 30px;
+}
+
+.llms-review-name {
+    font-size: 18px;
+    color: #000;
+    margin-bottom: 7px;
+}
+
+.llms-review-date {
+    font-size: 13px;
+    color: #5A5A5A;
+}
+
+p.llms-review-content {
+    font-size: 16px;
+    color: #000;
+    margin: 16px 0 27px;
+}

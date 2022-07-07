@@ -1,0 +1,16 @@
+.elementor-section .llms-progress-bar {
+    background: #E5E5E5;
+    border-radius: 3px;
+}
+
+.elementor-section .progress-bar-complete {
+    background: #33BA76;
+    border-radius: 3px;
+}
+
+.elementor-section .progress__indicator {
+    font-size: 16px;
+    font-weight: 700;
+    color: #000000;
+    margin: 0 0 0 13px;
+}

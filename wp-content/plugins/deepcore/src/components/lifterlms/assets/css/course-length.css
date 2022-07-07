@@ -1,0 +1,11 @@
+.deep-llms-course-length .llms-length{
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 1.3em;
+    color: #656566;
+}
+
+.deep-llms-course-length i:before{
+    color: #33BA76;
+    margin-right: 5px;
+}

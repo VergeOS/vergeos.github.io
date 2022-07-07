@@ -1,0 +1,20 @@
+.deep-course-material li {
+    list-style: none;
+    position: relative;
+    padding-left: 35px;
+    color: #000;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.deep-course-material li:before {
+    position: absolute;
+    content: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='11.884' height='8.34' viewBox='0 0 11.884 8.34'%3E%3Cpath d='M13.551,7.368,6.384,15.183,1.667,10.976l.639-.716,3.886,3.467,6.557-6.884.8.526Z' transform='translate(-1.667 -6.843)' fill='%2333ba76'/%3E%3C/svg%3E");
+    left: 0;
+    top: 0;
+    width: 26px;
+    height: 26px;
+    background: #E2FFEE;
+    border-radius: 100px;
+    text-align: center;
+}

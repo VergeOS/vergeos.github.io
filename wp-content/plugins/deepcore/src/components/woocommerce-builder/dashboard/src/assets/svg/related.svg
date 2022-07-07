@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46" height="38.923" viewBox="0 0 46 38.923">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_28" data-name="Rectangle 28" width="46" height="38.923" transform="translate(-1 0.828)" fill="#c6ced2"/>
+    </clipPath>
+  </defs>
+  <g id="rlated-products-icon" transform="translate(1 -0.828)" clip-path="url(#clip-path)">
+    <g id="Group_121" data-name="Group 121" transform="translate(0.946 2.597)">
+      <path id="Path_140" data-name="Path 140" d="M16.414,37.737a1.15,1.15,0,0,1-1.15-1.15V27.279a7.856,7.856,0,0,1,0-14.961V3.012a1.15,1.15,0,1,1,2.3,0v10.2a1.154,1.154,0,0,1-.936,1.131,5.555,5.555,0,0,0,0,10.916,1.151,1.151,0,0,1,.936,1.131v10.2A1.147,1.147,0,0,1,16.414,37.737Z" transform="translate(7.368 -1.802)" fill="#c6ced2"/>
+      <path id="Path_141" data-name="Path 141" d="M41.058,37.823H1.25A1.15,1.15,0,0,1,.1,36.673V2.978a1.15,1.15,0,0,1,1.15-1.15H41.058a1.15,1.15,0,0,1,1.15,1.15V36.671A1.15,1.15,0,0,1,41.058,37.823ZM2.4,35.521H39.908V4.128H2.4Z" transform="translate(-0.1 -1.828)" fill="#c6ced2"/>
+    </g>
+  </g>
+</svg>

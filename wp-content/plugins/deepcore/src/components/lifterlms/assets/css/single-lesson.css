@@ -1,0 +1,66 @@
+.llms-course-nav  a.llms-lesson-link {
+    background: transparent;
+    border: 1px solid #ebeaea;
+    border-radius: 10px;
+    padding: 12px 0 12px;
+    height: auto !important;
+}
+
+.llms-prev-lesson  a.llms-lesson-link {
+    padding-left: 80px;
+}
+
+.llms-next-lesson  a.llms-lesson-link {
+    padding-left: 20px;
+}
+
+h6.llms-pre-text {
+    color: #646464;
+}
+
+.llms-course-nav img {
+    display: none;
+}
+
+.llms-lesson-preview .llms-main {
+    position: relative;
+}
+
+.llms-lesson-preview .llms-main:before {
+    position: absolute;
+    top: 2px;
+    font-family: 'themify';
+    font-size: 17px;
+    color: #33BA76;
+    background: #E2FFEE;
+    border-radius: 50px;
+    padding: 15px;
+}
+
+.llms-prev-lesson .llms-main:before {
+    content: "\e64a";
+    left: -61px;
+}
+
+.llms-next-lesson .llms-main:before {
+    content: "\e649";
+    right: 23px;
+}
+
+h5.llms-lesson-title {
+    margin-top: 7px !important;
+    max-width: 80%;
+    display: inline-block;
+}
+
+.llms-lesson-link:hover  {
+    background: inherit !important;
+}
+
+.llms-lesson-link:hover h5 {
+    text-decoration: underline;
+}
+
+.llms-course-nav section.llms-main {
+    padding-left: 10px;
+}

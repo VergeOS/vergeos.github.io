@@ -1,0 +1,73 @@
+.llms-section-title {
+    position: relative;
+    cursor: pointer;
+    border: 1px solid #E1E1E1;
+    padding: 20px 30px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    margin-top: 8px;
+}
+
+.llms-section-title h4 {
+    display: inline-block;
+    margin: 0;
+    vertical-align: middle;
+    font-size: 16px;
+    color: #000;
+    padding-left: 26px;
+}
+
+.llms-section-title img {
+    position: absolute;
+    left: 21px;
+    top: 17px;
+}
+
+.llms-section-title.open .llms-icon-plus {
+    display: none;
+}
+
+.llms-lesson-preview {
+    width: 100%;
+    margin-top: 10px;
+}
+
+.llms-lesson-preview .llms-lesson-link {
+    background: transparent;
+    padding: 0;
+    border-bottom: 1px solid #EEEEEE;
+    padding-left: 22px;
+}
+
+.llms-lesson-preview .llms-lesson-title {
+    font-size: 14px;
+    color: #646464;
+    font-weight: 500;
+    display: inline-block;
+    padding-left: 2px;
+    margin: 5px 0 10px !important;
+}
+
+.llms-lesson-preview .llms-lesson-link:hover {
+    background: inherit;
+    box-shadow: unset;
+}
+
+.llms-lesson-preview .llms-extra {
+    max-width: 80px;
+}
+
+.llms-lesson-preview .llms-lesson-counter {
+    font-size: 14px;
+    color: #646464;
+    display: inline-block;
+    padding-right: 4px;
+}
+
+.n-border .llms-lesson-link {
+    border-color: transparent;
+}
+
+.llms-lesson-link-locked, .llms-lesson-link-locked:hover {
+    min-height: auto;
+}

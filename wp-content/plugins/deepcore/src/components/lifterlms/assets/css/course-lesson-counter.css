@@ -1,0 +1,19 @@
+.deep-llms-course-lesson-counter .llms-lesson-counter{
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 1.3em;
+    color: #656566;
+    margin-right: 3px;
+}
+
+.deep-llms-course-lesson-counter .llms-lesson-counter-label{
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 1.3em;
+    color: #656566;
+}
+
+.deep-llms-course-lesson-counter i:before{
+    color: #33BA76;
+    margin-right: 5px;
+}

@@ -1,0 +1,767 @@
+# Copyright (C) 2021 WEBNUS
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Deep 1.0.7\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/deep\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-11-29T07:21:19+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: deep\n"
+
+#. Theme Name of the theme
+msgid "Deep"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "https://webnus.net/deep-wordpress-theme/"
+msgstr ""
+
+#. Description of the theme
+msgid "Deep is a fast and fully customizable WordPress theme that also boasts a significant beauty with its modern and minimal design. It is created by professional and experienced developers to offer unparalleled speed. Deep WordPress theme has more than 130+ templates and demos (28 in Free) ready for your artistic touch. Its numerous demos are all fully customizable with Elementor and Visual Composer; just pick whichever suits you best. Whether it’s a blog website you are trying to create, a personal portfolio, or indeed a big business website, Deep is there for you and for any kind of website you wish to make. Our dedicated team spends all its time designing, developing, maintaining, and supporting the theme and its users. With Deep on your hands and Webnus support team at your back, you can conquer the world of WordPress websites."
+msgstr ""
+
+#. Author of the theme
+msgid "WEBNUS"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://webnus.net"
+msgstr ""
+
+#: searchform.php:13
+msgid "Enter Keywords..."
+msgstr ""
+
+#: searchform.php:14
+msgid "Search"
+msgstr ""
+
+#: src/class-deep-theme-admin.php:169
+msgid "Intro"
+msgstr ""
+
+#: src/class-deep-theme-admin.php:170
+msgid "Demos"
+msgstr ""
+
+#: src/class-deep-theme-admin.php:171
+msgid "Pro"
+msgstr ""
+
+#: src/class-deep-theme-admin.php:172
+msgid "Support"
+msgstr ""
+
+#: src/class-deep-theme-admin.php:173
+msgid "Help"
+msgstr ""
+
+#: src/class-deep-theme-admin.php:225
+msgid "Enable all Features of the Deep theme"
+msgstr ""
+
+#: src/class-deep-theme-admin.php:226
+msgid "In order to take full advantage of the Deep theme and enabling its demo importer, please install the recommended plugins."
+msgstr ""
+
+#: src/class-deep-theme-admin.php:227
+msgid "Install Plugin"
+msgstr ""
+
+#: src/class-deep-theme-admin.php:229
+msgid "Go Pro & Full Access to Advanced Features"
+msgstr ""
+
+#: src/class-deep-theme-admin.php:230
+msgid "Get full access to more demos and all advanced features of Deep theme by upgrading to Pro version right away."
+msgstr ""
+
+#: src/class-deep-theme-admin.php:231
+msgid "Go Pro"
+msgstr ""
+
+#: src/class-deep-theme-admin.php:255
+msgid "General"
+msgstr ""
+
+#: src/class-deep-theme-admin.php:260
+#: src/class-deep-theme-admin.php:376
+msgid "Typography"
+msgstr ""
+
+#: src/class-deep-theme-admin.php:265
+msgid "Blog Settings"
+msgstr ""
+
+#: src/class-deep-theme-admin.php:270
+msgid "Styling"
+msgstr ""
+
+#: src/class-deep-theme-admin.php:275
+#: src/class-deep-theme-admin.php:334
+msgid "Header Builder"
+msgstr ""
+
+#: src/class-deep-theme-admin.php:280
+msgid "Pages Settings"
+msgstr ""
+
+#: src/class-deep-theme-admin.php:285
+msgid "Footer Settings"
+msgstr ""
+
+#: src/class-deep-theme-admin.php:290
+msgid "Site Identity"
+msgstr ""
+
+#: src/class-deep-theme-admin.php:302
+msgid "Start Customizing"
+msgstr ""
+
+#: src/class-deep-theme-admin.php:337
+#: src/class-deep-theme-admin.php:344
+#: src/class-deep-theme-admin.php:351
+#: src/class-deep-theme-admin.php:358
+#: src/class-deep-theme-admin.php:365
+#: src/class-deep-theme-admin.php:372
+#: src/class-deep-theme-admin.php:379
+#: src/class-deep-theme-admin.php:386
+#: src/class-deep-theme-admin.php:393
+#: src/class-deep-theme-admin.php:400
+msgid "Learn More"
+msgstr ""
+
+#: src/class-deep-theme-admin.php:341
+msgid "Pre-defined Headers"
+msgstr ""
+
+#: src/class-deep-theme-admin.php:348
+msgid "Footer Builder"
+msgstr ""
+
+#: src/class-deep-theme-admin.php:355
+msgid "Portfolio"
+msgstr ""
+
+#: src/class-deep-theme-admin.php:362
+msgid "Gallery"
+msgstr ""
+
+#: src/class-deep-theme-admin.php:369
+msgid "Shop"
+msgstr ""
+
+#: src/class-deep-theme-admin.php:383
+msgid "Blog Options"
+msgstr ""
+
+#: src/class-deep-theme-admin.php:390
+msgid "One Click Demo Importer"
+msgstr ""
+
+#: src/class-deep-theme-admin.php:397
+msgid "Premium Plugins"
+msgstr ""
+
+#: src/class-deep-theme-admin.php:410
+msgid "Deep Features"
+msgstr ""
+
+#: src/class-deep-theme-admin.php:444
+msgid "Demo Importer"
+msgstr ""
+
+#: src/class-deep-theme-admin.php:447
+msgid "In order to import the demo, you need to install the Deep Core plugin."
+msgstr ""
+
+#: src/class-deep-theme-admin.php:450
+msgid "Click"
+msgstr ""
+
+#: src/class-deep-theme-admin.php:450
+msgid "here"
+msgstr ""
+
+#: src/class-deep-theme-admin.php:450
+msgid " to see the documentation."
+msgstr ""
+
+#: src/class-deep-theme-admin.php:467
+msgid "Knowledge Base"
+msgstr ""
+
+#: src/class-deep-theme-admin.php:468
+msgid "To find out more details of the features and sections please follow the documentation."
+msgstr ""
+
+#: src/class-deep-theme-admin.php:469
+msgid "Documentation"
+msgstr ""
+
+#: src/class-deep-theme-admin.php:485
+msgid "Deep Theme Community"
+msgstr ""
+
+#: src/class-deep-theme-admin.php:486
+msgid "Join the Deep Theme subreddit to get help and ask your technical questions."
+msgstr ""
+
+#: src/class-deep-theme-admin.php:487
+msgid "Join The Deep Theme Subreddit "
+msgstr ""
+
+#: src/class-deep-theme-admin.php:503
+msgid "Rate us"
+msgstr ""
+
+#: src/class-deep-theme-admin.php:504
+msgid "If you interested in the Deep Theme please rate us on WordPress."
+msgstr ""
+
+#: src/class-deep-theme-admin.php:505
+msgid "Rate Us"
+msgstr ""
+
+#: src/class-deep-theme.php:176
+msgid "Comments are closed."
+msgstr ""
+
+#: src/class-deep-theme.php:203
+msgid "404"
+msgstr ""
+
+#: src/class-deep-theme.php:204
+msgid "Page Not Found"
+msgstr ""
+
+#: src/class-deep-theme.php:206
+msgid "We are sorry, but the page you were looking for does not exist."
+msgstr ""
+
+#: src/class-deep-theme.php:243
+msgid "Skip to content"
+msgstr ""
+
+#: src/class-deep-theme.php:288
+msgid "BLOG"
+msgstr ""
+
+#: src/class-deep-theme.php:310
+msgid "Deep Theme Powered by WordPress "
+msgstr ""
+
+#: src/class-deep-theme.php:344
+msgid "Previous:"
+msgstr ""
+
+#: src/class-deep-theme.php:345
+msgid "Next:"
+msgstr ""
+
+#. translators: %s: search query.
+#: src/class-deep-theme.php:400
+msgid "Search Results for: %s"
+msgstr ""
+
+#: src/class-deep-theme.php:572
+msgid "Primary"
+msgstr ""
+
+#: src/class-deep-theme.php:648
+msgid "Sidebar"
+msgstr ""
+
+#: src/class-deep-theme.php:650
+msgid "Add widgets here."
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: src/plugin-activator/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: src/plugin-activator/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: src/plugin-activator/class-tgm-plugin-activation.php:335
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: src/plugin-activator/class-tgm-plugin-activation.php:341
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: src/plugin-activator/class-tgm-plugin-activation.php:347
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: src/plugin-activator/class-tgm-plugin-activation.php:353
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: src/plugin-activator/class-tgm-plugin-activation.php:359
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: src/plugin-activator/class-tgm-plugin-activation.php:365
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:386
+#: src/plugin-activator/class-tgm-plugin-activation.php:843
+#: src/plugin-activator/class-tgm-plugin-activation.php:2557
+#: src/plugin-activator/class-tgm-plugin-activation.php:3605
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:387
+#: src/plugin-activator/class-tgm-plugin-activation.php:3184
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:388
+#: src/plugin-activator/class-tgm-plugin-activation.php:2977
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: src/plugin-activator/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: src/plugin-activator/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: src/plugin-activator/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:538
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:539
+msgid "Update Required"
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:950
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:950
+#: src/plugin-activator/class-tgm-plugin-activation.php:953
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:953
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:1137
+#: src/plugin-activator/class-tgm-plugin-activation.php:2973
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: src/plugin-activator/class-tgm-plugin-activation.php:1998
+msgid "TGMPA v%s"
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:2289
+msgid "Required"
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:2292
+msgid "Recommended"
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:2308
+msgid "WordPress Repository"
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:2311
+msgid "External Source"
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:2314
+msgid "Pre-Packaged"
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:2331
+msgid "Not Installed"
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:2335
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:2337
+msgid "Active"
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:2343
+msgid "Required Update not Available"
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:2346
+msgid "Requires Update"
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:2349
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: src/plugin-activator/class-tgm-plugin-activation.php:2358
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: src/plugin-activator/class-tgm-plugin-activation.php:2404
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: src/plugin-activator/class-tgm-plugin-activation.php:2408
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: src/plugin-activator/class-tgm-plugin-activation.php:2412
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: src/plugin-activator/class-tgm-plugin-activation.php:2416
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:2506
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:2514
+msgid "Installed version:"
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:2522
+msgid "Minimum required version:"
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:2534
+msgid "Available version:"
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:2557
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:2571
+msgid "Plugin"
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:2572
+msgid "Source"
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:2573
+msgid "Type"
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:2577
+msgid "Version"
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:2578
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: src/plugin-activator/class-tgm-plugin-activation.php:2628
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: src/plugin-activator/class-tgm-plugin-activation.php:2633
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: src/plugin-activator/class-tgm-plugin-activation.php:2639
+msgid "Activate %2$s"
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:2709
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:2742
+msgid "Install"
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:2748
+msgid "Update"
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:2751
+msgid "Activate"
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:2782
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:2784
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:2825
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:2827
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:2933
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:2959
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:3183
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: src/plugin-activator/class-tgm-plugin-activation.php:3523
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: src/plugin-activator/class-tgm-plugin-activation.php:3526
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: src/plugin-activator/class-tgm-plugin-activation.php:3528
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:3532
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: src/plugin-activator/class-tgm-plugin-activation.php:3534
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#. translators: 1: plugin name.
+#. translators: 1: plugin name.
+#: src/plugin-activator/class-tgm-plugin-activation.php:3534
+#: src/plugin-activator/class-tgm-plugin-activation.php:3542
+msgid "Show Details"
+msgstr ""
+
+#. translators: 1: plugin name.
+#. translators: 1: plugin name.
+#: src/plugin-activator/class-tgm-plugin-activation.php:3534
+#: src/plugin-activator/class-tgm-plugin-activation.php:3542
+msgid "Hide Details"
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:3535
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: src/plugin-activator/class-tgm-plugin-activation.php:3537
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:3540
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: src/plugin-activator/class-tgm-plugin-activation.php:3542
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: src/plugin-activator/class-tgm-plugin-activation.php:3543
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: src/plugin-activator/class-tgm-plugin-activation.php:3545
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: src/plugin-activator/deeptheme-plugins.php:69
+msgid "Elementor"
+msgstr ""
+
+#: src/plugin-activator/deeptheme-plugins.php:76
+msgid "Modern events calendar lite"
+msgstr ""
+
+#: src/plugin-activator/deeptheme-plugins.php:83
+msgid "Contact Form 7"
+msgstr ""
+
+#: src/plugin-activator/deeptheme-plugins.php:90
+msgid "WP PageNavi"
+msgstr ""
+
+#: src/plugin-activator/deeptheme-plugins.php:97
+msgid "WP Cloudy"
+msgstr ""
+
+#: src/plugin-activator/deeptheme-plugins.php:104
+msgid "Post Rating"
+msgstr ""
+
+#: src/plugin-activator/deeptheme-plugins.php:111
+msgid "Deeper Comments"
+msgstr ""
+
+#: src/plugin-activator/deeptheme-plugins.php:118
+msgid "One Click Demo Import"
+msgstr ""
+
+#: src/plugin-activator/deeptheme-plugins.php:128
+msgid "Deep Core"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:25
+#: template-parts/content.php:71
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:39
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:58
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/content.php:77
+msgid "Tags"
+msgstr ""
+
+#: template-parts/content.php:87
+msgid "Continue Reading"
+msgstr ""
